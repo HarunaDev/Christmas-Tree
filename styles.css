@@ -143,3 +143,83 @@ i  {
     background: #09ff00;
     box-shadow: 0 0 15px #09ff00, 0 0 30px #ff0015, 0 0 45px #ff0015, 0 0 60px #09ff00;
 }
+
+@media screen and (max-width: 500px) {
+    .christmas-wrapper {
+        margin: 100px auto 0;
+        width: 200px;
+        height: 200px;
+        
+    }
+
+    .triangle-1 {
+        left: 50px;
+        top: 12.5px;
+    }
+
+    .triangle-2 {
+        left: 1px;
+        top: 50px;
+    }
+
+    .triangle-3 {
+        left: -50px;
+        right: 2px;
+        top: 90px;
+    }
+
+    .stem {
+        top: 380px;
+        left: 82px;
+    }
+
+    .decorations {
+        width: 10%;
+        height: 10%;
+    }
+
+    .dec-1 {
+        left: 50%;
+        top: 30%;
+    } 
+
+    .dec-2 {
+        left: 38%;
+        top: 74%;
+    } 
+
+    .dec-3 {
+        left: 70%;
+        top: 95%;
+    }
+
+    .dec-4 {
+        left: 20%;
+        top: 120%;
+    }
+
+    .dec-5 {
+        left: 55%;
+        top: 145%;
+    }
+
+    .dec-6 {
+        left: 80%;
+        top: 180%;
+    }
+
+    .dec-7 {
+        left: 15%;
+        top: 170%;
+    }
+
+    i  {
+        position: absolute;
+        left: 43%;
+        top: -1%;
+        color: rgba(255, 255, 255, 0.979);
+        text-shadow: 0 0 15px #fff, 0 0 30px #fff, 0 0 45px #fff, 0 0 60px #fff;
+        font-size: 25px;
+        z-index: 1000000;
+    } 
+}
