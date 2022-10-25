@@ -1,17 +1,23 @@
-# Christmas Tree web application
+# Christmas Tree Web Application
 
 ### **Description**
 
-A christmas tree with lights and snow animation, the tree and lightings was done with html and css animation and gsap library to help with the snow animation.
+A Christmas tree with lights and snow animation, the tree and lighting was done with HTML and CSS animation, and GSAP library to help with the snow animation.
 
 ### **Features**
 
 - Light animation
 - Snow animation
 
-### **Contribution Guidelines**
+text passed into the app
 
-Your contributions are always welcome here, as long as you follow the guide [HERE]()
+### **How to use**
+
+Go to live app [here](https://myxmas.netlify.app//)
+
+### **Contribution Guide**
+
+Your contributions are welcome here. As long as you follow the contributing guide [HERE]()
 
 ### **Instructions**
 
@@ -22,4 +28,5 @@ Your contributions are always welcome here, as long as you follow the guide [HER
 - Commit and push
 - Create a pull request
 - Wait for pull request to merge
-- Don't forget to give a like ;)
+
+### **If you found this helpful, kindly give it a star ;)**
