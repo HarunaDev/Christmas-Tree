@@ -17,7 +17,7 @@ Go to live app [here](https://myxmas.netlify.app//)
 
 ### **Contribution Guide**
 
-Your contributions are welcome here. As long as you follow the contributing guide [HERE]()
+Your contributions are welcome here. As long as you follow the contributing guide [HERE](https://github.com/HarunaDev/Christmas-tree/blob/main/CONTRIBUTING.md)
 
 ### **Instructions**
 
