@@ -9,8 +9,6 @@ A Christmas tree with lights and snow animation, the tree and lighting was done 
 - Light animation
 - Snow animation
 
-text passed into the app
-
 ### **How to use**
 
 Go to live app [here](https://myxmas.netlify.app//)
